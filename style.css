@@ -1,0 +1,10 @@
+.bg-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background: url(https://img.freepik.com/premium-photo/laptop-coffee-cup-table-office-night-3d-rendering_795422-5502.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 890px;
+}
